@@ -6,7 +6,7 @@ module.exports = {
     // UDP port
     server_port: 17091,
     // login url dashboard
-    loginurl: "login.cdngtps.my.id",
+    loginurl: "www.manes.my.id",
     // meta
-    meta: "name=GrowPlus&ip=127.0.0.1&port=17091&3rd=0",
+    meta: "logman",
 }
